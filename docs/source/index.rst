@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+SV388 - Sân chơi cá cược trực tuyến uy tín hàng đầu Việt Nam
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Sv388 <https://sv389.com/>`_ là nhà cái cá cược trực tuyến uy tín hàng đầu tại Việt Nam, được cấp phép hoạt động bởi Ủy ban Điều hành Trò chơi Philippines (PAGCOR). Nổi tiếng với các sản phẩm cá cược đa dạng, tỷ lệ kèo hấp dẫn, cùng hệ thống thanh toán an toàn và đội ngũ hỗ trợ chuyên nghiệp, SV388 đã thu hút lượng lớn người chơi tham gia trong suốt nhiều năm qua. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 34 Hẻm C5A, Tổ 4, Bình Chánh, Thành phố Hồ Chí Minh, Vietnam. 
 
-   This project is under active development.
+Phone: 0936558214. 
 
-Contents
---------
+Email: info@sv389.com. 
 
-.. toctree::
+Website: https://sv389.com/
 
-   usage
-   api
+#sv388 #sv389com #nhacaisv388 #trangchusv388
